@@ -1,6 +1,8 @@
 # NonCompart
 Noncompartmental Analysis for Pharmacokinetic Data Use NonCompart With (In) R Software
 
+https://www.youtube.com/watch?v=QZORISywvNo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
